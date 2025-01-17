@@ -36,3 +36,6 @@ The application fetches employee data from an API, implements error handling, pa
      - Email
      - Phone
      - Address
+    
+
+https://github.com/user-attachments/assets/916a9bc5-6cd4-41ee-b8e3-8ba7e05cae99
